@@ -18,3 +18,10 @@ li {
   width: 100%;
   display: inline-flex;
 }
+
+fieldset {
+    border: none;
+}
+legend {
+    display: none;
+}
